@@ -9,7 +9,6 @@ import (
 	"net"
 	"time"
 
-	"github.com/armon/go-metrics"
 	"github.com/hashicorp/go-msgpack/codec"
 )
 

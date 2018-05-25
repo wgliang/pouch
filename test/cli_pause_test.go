@@ -4,9 +4,10 @@ import (
 	"github.com/alibaba/pouch/test/command"
 	"github.com/alibaba/pouch/test/environment"
 
+	"strings"
+
 	"github.com/go-check/check"
 	"github.com/gotestyourself/gotestyourself/icmd"
-	"strings"
 )
 
 // PouchPauseSuite is the test suite for pause CLI.

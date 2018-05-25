@@ -2,8 +2,6 @@ package serf
 
 import (
 	"fmt"
-
-	"github.com/armon/go-metrics"
 )
 
 // delegate is the memberlist.Delegate implementation that Serf uses.

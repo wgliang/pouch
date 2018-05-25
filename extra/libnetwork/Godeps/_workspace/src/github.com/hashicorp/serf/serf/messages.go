@@ -2,8 +2,9 @@ package serf
 
 import (
 	"bytes"
-	"github.com/hashicorp/go-msgpack/codec"
 	"time"
+
+	"github.com/hashicorp/go-msgpack/codec"
 )
 
 // messageType are the types of gossip messages Serf will send along

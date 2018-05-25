@@ -8,8 +8,6 @@ import (
 	"net"
 	"sync/atomic"
 	"time"
-
-	"github.com/armon/go-metrics"
 )
 
 type nodeStateType int

@@ -9,7 +9,6 @@ import (
 	"time"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/armon/go-radix"
 	"github.com/docker/go-events"
 	"github.com/hashicorp/memberlist"
 	"github.com/hashicorp/serf/serf"
